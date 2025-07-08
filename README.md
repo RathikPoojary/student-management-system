@@ -118,5 +118,5 @@ Feel free to fork this repo and raise a PR.
 
 ---
 
-**Author:** Your Name  
+**Author:** RATHIK RAM POOJARY  
 **License:** MIT
